@@ -1,0 +1,36 @@
+# Local environments and Python caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.uv-cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Local credentials (keep example templates available)
+.env
+.env.*
+!.env.example
+
+# Inference outputs and atomic-save temporary files
+/outputs/
+/results/
+/outputs.json
+/*-outputs.json
+*.run.json
+*.json.tmp
+*.log
+
+# Operating-system and editor files
+.DS_Store
+._*
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
