@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use the ART dataset or its evaluation code, please cite the paper below."
+type: dataset
+title: "ART: Audio Reasoning Tasks"
+authors:
+  - family-names: Christop
+    given-names: Iwona
+  - family-names: Czyżnikiewicz
+    given-names: Mateusz
+  - family-names: Skórzewski
+    given-names: Paweł
+  - family-names: Bondaruk
+    given-names: Łukasz
+  - family-names: Kubiak
+    given-names: Jakub
+  - family-names: Lewandowski
+    given-names: Marcin
+  - family-names: Kubis
+    given-names: Marek
+repository-code: "https://github.com/SamsungLabs/ART"
+url: "https://github.com/SamsungLabs/ART"
+license: CC-BY-4.0
+preferred-citation:
+  type: conference-paper
+  title: "A Benchmark for Audio Reasoning Capabilities of Multimodal Large Language Models"
+  authors:
+    - family-names: Christop
+      given-names: Iwona
+    - family-names: Czyżnikiewicz
+      given-names: Mateusz
+    - family-names: Skórzewski
+      given-names: Paweł
+    - family-names: Bondaruk
+      given-names: Łukasz
+    - family-names: Kubiak
+      given-names: Jakub
+    - family-names: Lewandowski
+      given-names: Marcin
+    - family-names: Kubis
+      given-names: Marek
+  collection-title: "Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)"
+  editors:
+    - family-names: Demberg
+      given-names: Vera
+    - family-names: Inui
+      given-names: Kentaro
+    - family-names: Marquez
+      given-names: Lluís
+  publisher:
+    name: Association for Computational Linguistics
+  year: 2026
+  month: 3
+  start: 953
+  end: 983
+  doi: "10.18653/v1/2026.eacl-long.42"
+  url: "https://aclanthology.org/2026.eacl-long.42/"
+  isbn: "979-8-89176-380-7"
