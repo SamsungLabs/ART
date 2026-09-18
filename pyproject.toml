@@ -1,0 +1,12 @@
+[project]
+name = "ART"
+version = "0.1.0"
+description = "A Benchmark for Audio Reasoning Capabilities of Multimodal Large Language Models"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.3.4",
+    "openai>=2.6.0",
+    "soundfile>=0.13.1",
+    "tqdm>=4.67.1",
+]
